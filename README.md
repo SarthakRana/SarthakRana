@@ -30,7 +30,7 @@ Here are some things about me to get you started:
 
 #### Tools, Frameworks and Programming language
 
-| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/jupyter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/opencv.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">()
+| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/jupyter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/opencv.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]()
 |-----|----|----|----|----|----|----|----|----|
 
 ---
