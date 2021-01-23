@@ -8,10 +8,9 @@ I am an avid programmer well versed with Python programming, Data Science & Mach
 
 Here are some things about me to get you started:
 
-- 🔭 I’m currently working on Kaggle Competition problems and self projects.
-- 🌱 I’m currently learning Computer Vision & Video editing.
-- 👯 I’m looking to collaborate on Kaggle & Open Source Projects.
-- 🤔 I’m looking for help with my projects.
+- 🔭 I’m currently working on self projects, polishing my DSA skills, ssolving problems on LeetCode.
+- 🌱 I’m currently learning Computer Vision in Python
+- 👯 I’m looking to collaborate on projects(freelancing)
 - 💬 Ask me about anything. Would be happy to have a chat.
 - 📫 How to reach me: [Email](mailto:sarthak6246@gmail.com), [LinkedIn](https://www.linkedin.com/in/sarthakrana/), [Kaggle](https://www.kaggle.com/sarthak97)
 - 😄 Pronouns: He/His
@@ -24,6 +23,7 @@ Here are some things about me to get you started:
 - 📊 Data Science
 - 🤖 Machine Learning
 - 🕸 Deep Learning
+- 👨🏽‍💻 Data Structures & Algorithms
 - 📷 Computer Vision (Currently learning)
 
 ---
