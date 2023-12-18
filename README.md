@@ -2,13 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=SarthakRana)
 
-I am an avid programmer well versed with Python programming, Data Science & Machine Learning. I enjoy learning new stuff everyday and I really like solving problems related to data science, AI related stuff or just any problem that comes my way :)
+I am an avid programmer well versed with Python programming. I enjoy learning new stuff and really like solving problems related to data science, AI related stuff, or just any problem that comes my way :)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SarthakRana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthakrana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/sarthak97)
 
 Here are some things about me to get you started:
 
-- 🔭 I’m currently working on self projects, polishing my DSA skills, ssolving problems on LeetCode.
+- 🔭 I’m currently working on projects, polishing my DSA skills, solving problems on LeetCode.
 - 🌱 I’m currently learning Computer Vision in Python
 - 👯 I’m looking to collaborate on projects(freelancing)
 - 💬 Ask me about anything. Would be happy to have a chat.
