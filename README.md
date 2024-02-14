@@ -1,6 +1,6 @@
-### Hi there 👋, I am Sarthak Rana
-#### Design and Development
 ![Design and Development](https://github.com/SarthakRana/SarthakRana/assets/26656508/8e8f62fa-2c39-4bf6-8725-073da4b0a721)
+
+# Hi there 👋, I'm Sarthak Rana
 
 I'm currently an MS in Computer Science student at Arizona State University. 
 
@@ -14,8 +14,12 @@ Your dream + my expertise = scalable, performant, reliable, and intuitive produc
 
 <br>
 
+## Skills and Experience
+* 🐍 Python
+* 💻 HTML, CSS, JavaScript
+* 📀 SQL, NoSQL
+* 📊 Data Structures & Algorithms
 
-Skills: Python / HTML / CSS / JS / SQL / NoSQL / Data Structures / Algorithms
 
 - 🔭 I’m currently working on my own portfolio 
 - 🌱 I’m currently learning Full Stack Development 
