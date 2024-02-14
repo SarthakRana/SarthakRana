@@ -2,9 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=SarthakRana)
 
-I'm currently an MS in Computer Science student at Arizona State University. I'm your go-to Software Developer, ready to bring your dream product to life in the virtual world. From crafting sleek websites for small and medium-sized businesses to empowering you by building your dream tech product, I've got the skills and expertise to make it happen. 
+I'm currently an MS in Computer Science student at Arizona State University. 
 
-With a professional experience of 4+ years and expertise in Python programming, Cloud, NoSQL databases, JavaScript, and Data Structures and Algorithms, I can help ensure your online presence stands out from the crowd. I am skilled in creating user-friendly interfaces, building RESTful APIs, and seamlessly integrating external services. I am someone who prefers to meticulously oversee every aspect of a project, from conception to completion, leaving no room for mediocrity.
+I'm your go-to Software Developer, ready to bring your dream product to life in the virtual world. From crafting sleek websites for small and medium-sized businesses to empowering you by building your dream tech product, I've got the skills and expertise to make it happen. 
+
+With a professional experience of 4+ years and expertise in Python programming, Cloud, NoSQL databases, JavaScript, and Data Structures and Algorithms, I can help ensure your online presence stands out from the crowd. I am skilled in creating user-friendly interfaces, building RESTful APIs, and seamlessly integrating external services. 
+
+I am someone who prefers to meticulously oversee every aspect of a project, from conception to completion, leaving no room for mediocrity.
 
 Your dream + my expertise = scalable, performant, reliable, and intuitive products. Let's build something extraordinary!
 
