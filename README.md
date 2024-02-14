@@ -10,10 +10,10 @@ With a professional experience of 4+ years and expertise in Python programming, 
 
 I am someone who prefers to meticulously oversee every aspect of a project, from conception to completion, leaving no room for mediocrity.
 
-So,
-.
-.
-.
+So
+.<br>
+.<br>
+.<br>
 Your dream + my expertise = scalable, performant, reliable, and intuitive products. Let's build something extraordinary!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SarthakRana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthakrana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/sarthak6246/)
