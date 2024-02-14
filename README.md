@@ -10,7 +10,7 @@ With a professional experience of 4+ years and expertise in Python programming, 
 
 <br>
 
-Your dream + my expertise = scalable, performant, reliable, and intuitive products. Let's build something extraordinary!
+<b> Your dream + my expertise = scalable, performant, reliable, and intuitive products. Let's build something extraordinary! </b>
 
 
 ## Skills and Experience
@@ -32,7 +32,7 @@ Your dream + my expertise = scalable, performant, reliable, and intuitive produc
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakRana&show_icons=true)  
 
 
-## Tools, Frameworks and Programming language
+## Tools, Technologies & Frameworks
 
 | [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/jupyter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/opencv.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]()
 |-----|----|----|----|----|
