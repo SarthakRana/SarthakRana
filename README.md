@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=SarthakRana)
+
 ![Design and Development](https://github.com/SarthakRana/SarthakRana/assets/26656508/8e8f62fa-2c39-4bf6-8725-073da4b0a721)
 
 # Hi there 👋, I'm Sarthak Rana
