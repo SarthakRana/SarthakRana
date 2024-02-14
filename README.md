@@ -12,7 +12,6 @@ With a professional experience of 4+ years and expertise in Python programming, 
 
 Your dream + my expertise = scalable, performant, reliable, and intuitive products. Let's build something extraordinary!
 
-<br>
 
 ## Skills and Experience
 * 🐍 Python
@@ -31,3 +30,9 @@ Your dream + my expertise = scalable, performant, reliable, and intuitive produc
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SarthakRana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthakrana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sarthak.rana.97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/sarthak6246/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakRana&show_icons=true)  
+
+
+## Tools, Frameworks and Programming language
+
+| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/jupyter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/opencv.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]()
+|-----|----|----|----|----|
