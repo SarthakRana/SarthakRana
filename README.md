@@ -1,10 +1,14 @@
-# Hi there 👋 I am Sarthak Rana
+# Hi there 👋 I am Sarthak
 
 ![](https://komarev.com/ghpvc/?username=SarthakRana)
 
-I am an avid programmer well versed with Python programming. I enjoy learning new stuff and really like solving problems related to data science, AI related stuff, or just any problem that comes my way :)
+I'm currently an MS in Computer Science student at Arizona State University. I'm your go-to Software Developer, ready to bring your dream product to life in the virtual world. From crafting sleek websites for small and medium-sized businesses to empowering you by building your dream tech product, I've got the skills and expertise to make it happen. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SarthakRana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthakrana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/sarthak97)
+With a professional experience of 4+ years and expertise in Python programming, Cloud, NoSQL databases, JavaScript, and Data Structures and Algorithms, I can help ensure your online presence stands out from the crowd. I am skilled in creating user-friendly interfaces, building RESTful APIs, and seamlessly integrating external services. I am someone who prefers to meticulously oversee every aspect of a project, from conception to completion, leaving no room for mediocrity.
+
+Your dream + my expertise = scalable, performant, reliable, and intuitive products. Let's build something extraordinary!
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SarthakRana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarthakrana/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/sarthak6246/)
 
 Here are some things about me to get you started:
 
