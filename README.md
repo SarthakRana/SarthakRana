@@ -30,7 +30,7 @@ With a professional experience of 4+ years and expertise in Python programming, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakRana&show_icons=true)  
 
-## Tools, Technologies & Frameworks
+## Tools, Technologies & Languages
 
-| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/jupyter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/aws.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/git.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/git.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50">]()
+| [<img src="https://cdn.svgporn.com/logos/python.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/jupyter.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/aws.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/git.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/pandas.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50">]()
 |-----|----|----|----|----|----|----|----|
