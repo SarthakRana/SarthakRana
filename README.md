@@ -1,4 +1,4 @@
-# Hi there 👋 I am Sarthak
+# Hi there 👋 I am Sarthak Rana
 
 ![](https://komarev.com/ghpvc/?username=SarthakRana)
 
