@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Sarthak Rana
 
-I'm currently an MS in Computer Science student at Arizona State University. 
+I'm a recent Arizona State CS Grad. 
 
 I'm your go-to Software Developer, ready to bring your dream product to life in the virtual world. From crafting sleek websites for small and medium-sized businesses to empowering you by building your dream tech product, I've got the skills and expertise to make it happen by meticulously overseing every aspect of a project, from conception to completion, leaving no room for mediocrity.
 
@@ -22,7 +22,7 @@ With a professional experience of 4+ years and expertise in Python programming, 
 
 ## Skills and Experience
 
-* 🐍 Python
+* 🐍 Python, Java
 * 💻 HTML, CSS, JavaScript
 * 📀 SQL, NoSQL
 * 📊 Data Structures & Algorithms
